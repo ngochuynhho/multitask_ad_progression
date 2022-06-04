@@ -1,4 +1,4 @@
-# multitask_ad_progression
+# Multitask learning for AD progression
 Multimodal Multitask Learning for Predicting MCI to AD Conversion using Stacked Polynomial Attention Network and Adaptive Exponential Decay
 
 ### Requirements
